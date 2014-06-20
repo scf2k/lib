@@ -1,9 +1,13 @@
 {
   "name": "lib",
-  "version": "3.0.0",
   "dependencies": {
     "lib1": "git://github.com/scf2k/lib1",
     "lib2": "git://github.com/scf2k/lib2",
-    "lib3": "git://github.com/scf2k/lib3"
+    "lib3": "git://github.com/scf2k/lib3",
+    "lib4": "git://github.com/scf2k/lib4",
+    "lib5": "git://github.com/scf2k/lib5",
+    "lib6": "git://github.com/scf2k/lib6",
+    "lib7": "git://github.com/scf2k/lib7",
+    "lib8": "git://github.com/scf2k/lib8",
   }
 }
