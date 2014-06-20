@@ -3,7 +3,7 @@
   "version": "3.0.0",
   "dependencies": {
     "lib1": "git://github.com/scf2k/lib1",
-    "lib2": "git://github.com/scf2k/lib1",
-    "lib3": "git://github.com/scf2k/lib1"
+    "lib2": "git://github.com/scf2k/lib2",
+    "lib3": "git://github.com/scf2k/lib3"
   }
 }
