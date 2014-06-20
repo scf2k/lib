@@ -6,8 +6,6 @@
     "lib3": "git://github.com/scf2k/lib3",
     "lib4": "git://github.com/scf2k/lib4",
     "lib5": "git://github.com/scf2k/lib5",
-    "lib6": "git://github.com/scf2k/lib6",
-    "lib7": "git://github.com/scf2k/lib7",
-    "lib8": "git://github.com/scf2k/lib8",
+    "lib6": "git://github.com/scf2k/lib6"
   }
 }
